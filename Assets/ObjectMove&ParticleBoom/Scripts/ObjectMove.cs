@@ -4,7 +4,7 @@ using UnityEngine;
 using DG.Tweening;
 
 
-public class RandomParticle : MonoBehaviour
+public class ObjectMove: MonoBehaviour
 {
     public float endvalue;
     public GameObject Capsule;
